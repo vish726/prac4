@@ -1,0 +1,22 @@
+.note {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .note h3 {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .note p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+  .note small {
+    display: block;
+    font-size: 12px;
+    color: #666;
+  }
